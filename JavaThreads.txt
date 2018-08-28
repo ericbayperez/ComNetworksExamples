@@ -1,0 +1,6 @@
+Threads in Java:
+
+Thread is a class that implements Runnable that has a method called run.
+1. Implement run.
+2. Create a new Thread instance.
+3. Call start on the thread.
